@@ -11,13 +11,6 @@
 ```
 
 ```yaml
-❯: stack --list
-- Systems Development & Performance
-- Full-Stack (Front-End / Back-End)
-- Data & Quant / SQL
-```
-
-```yaml
 ❯: cat dev_manifest.yml
 ENGINEER_PROFILE:
   Focus: Low-latency systems, Memory optimization, Concurrency
