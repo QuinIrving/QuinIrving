@@ -53,7 +53,7 @@ ENGINEER_PROFILE:
       <a href="https://react.dev/"><img src="./assets/react.webp" alt="React" title="React" height="42"></a>
       <a href="https://www.typescriptlang.org/"><img src="./assets/typescript.png" alt="TypeScript" title="TypeScript" height="42"></a>
       <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="./assets/css.png" alt="CSS3" title="CSS3" height="42"></a>
-      <a href="https://en.wikipedia.org/wiki/HTML"><img src="./assets/html.png" alt="HTML5" title="HTML5" height="42"></a>
+      <a href="https://html.spec.whatwg.org/"><img src="./assets/html.png" alt="HTML5" title="HTML5" height="42"></a>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/"><img src="./assets/mysql.png" alt="MySQL" title="MySQL" height="42"></a>
