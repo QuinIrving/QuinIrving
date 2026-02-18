@@ -44,9 +44,9 @@ ENGINEER_PROFILE:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://isocpp.org/"><img src="./assets/cpp.png" alt="C++" title="C++" height="42"></a>
+      <a href="https://isocpp.org/"><img src="./assets/cpp.svg" alt="C++" title="C++" height="42"></a>
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/csharp.png" alt="C#" title="C#" height="42"></a>
-      <a href="https://dev.java/"><img src="./assets/java.png" alt="Java" title="Java" height="42"></a>
+      <a href="https://dev.java/"><img src="./assets/java.svg" alt="Java" title="Java" height="42"></a>
       <a href="https://www.python.org/"><img src="./assets/python.png" alt="Python" title="Python" height="42"></a>
     </td>
     <td align="center">
