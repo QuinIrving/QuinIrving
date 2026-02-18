@@ -44,20 +44,20 @@ ENGINEER_PROFILE:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://isocpp.org/"><img src="./assets/cpp.svg" alt="C++" title="C++" height="62"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/csharp.png" alt="C#" title="C#" height="62"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://isocpp.org/"><img src="./assets/cpp.svg" alt="C++" title="C++" height="52"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./assets/csharp.png" alt="C#" title="C#" height="52"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://dev.java/"><img src="./assets/java.svg" alt="Java" title="Java" height="52"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.python.org/"><img src="./assets/python.png" alt="Python" title="Python" height="62"></a>
+      <a href="https://www.python.org/"><img src="./assets/python.png" alt="Python" title="Python" height="52"></a>
     </td>
     <td align="center">
-      <a href="https://react.dev/"><img src="./assets/react.png" alt="React" title="React" height="62"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.typescriptlang.org/"><img src="./assets/typescript.png" alt="TypeScript" title="TypeScript" height="62"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="./assets/css.png" alt="CSS3" title="CSS3" height="62"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://html.spec.whatwg.org/"><img src="./assets/html5.png" alt="HTML5" title="HTML5" height="62"></a>
+      <a href="https://react.dev/"><img src="./assets/react.png" alt="React" title="React" height="52"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.typescriptlang.org/"><img src="./assets/typescript.png" alt="TypeScript" title="TypeScript" height="52"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="./assets/css.png" alt="CSS3" title="CSS3" height="52"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://html.spec.whatwg.org/"><img src="./assets/html5.png" alt="HTML5" title="HTML5" height="52"></a>
     </td>
     <td align="center">
-      <a href="https://www.mysql.com/"><img src="./assets/mysql.png" alt="MySQL" title="MySQL" height="62"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.postgresql.org/"><img src="./assets/postgres.png" alt="PostgreSQL" title="PostgreSQL" height="62"></a>
+      <a href="https://www.mysql.com/"><img src="./assets/mysql.png" alt="MySQL" title="MySQL" height="52"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://www.postgresql.org/"><img src="./assets/postgres.png" alt="PostgreSQL" title="PostgreSQL" height="52"></a>
     </td>
   </tr>
 </table>
